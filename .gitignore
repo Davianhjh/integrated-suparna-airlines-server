@@ -1,0 +1,15 @@
+/target/
+
+.idea/
+
+.settings/
+
+out/
+
+.classpath
+
+.project
+
+flight-upgrade-server.iml
+
+src/main/resources/hikaricp.properties
